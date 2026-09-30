@@ -3,7 +3,7 @@
 
 
 
-Deployed at: http://jpa01-deserae.dokku-06.cs.ucsb.edu
+Deployed at: https://jpa01-deserae.dokku-06.cs.ucsb.edu
 
 
 # About this repo
